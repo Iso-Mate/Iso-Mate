@@ -6,7 +6,7 @@
   }
 }
 
-@media only screen and (max-width: 550px) {
+/* @media only screen and (max-width: 600px) {
       .flexCFeaturesTop {
           display: flex;
           flex-direction: column;
@@ -42,7 +42,7 @@
           width: 40%;
           height: auto;
        }
-    }
+    } */
 
 header {
   background-color: rgb(0, 174, 180);
