@@ -6,7 +6,7 @@
   }
 }
 
-@media only screen and (max-width: 520px) {
+@media only screen and (max-width: 550px) {
       .flexCFeaturesTop {
           display: flex;
           flex-direction: column;
