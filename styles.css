@@ -361,7 +361,7 @@ ul {
 
 /* MEDIA QUERIES */
 
-@media only screen and (max-width: 515px) {
+@media only screen and (max-width: 550px) {
   .flexCFeaturesTop {
     display: flex;
     flex-direction: column;
@@ -388,5 +388,13 @@ ul {
     padding-right: 30px;
     padding-top: 30px;
     padding-bottom: 30px;
+  }
+
+  img {
+    float: left;
+    margin-right: 10px;
+    border: 2px solid darkslategray;
+    width: 40%;
+    height: auto;
   }
 }
