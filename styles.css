@@ -363,14 +363,30 @@ ul {
 
 @media only screen and (max-width: 515px) {
   .flexCFeaturesTop {
+    display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
   }
 
   .flexCFeaturesBottom {
+    display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
   }
 
   .flexBoxFeature {
+    font-family: 'Arvo', serif;
+    color: darkslategrey;
+    font-size: 17px;
+    background-color: whitesmoke;
+    line-height: 8mm;
+    margin: 0;
     width: 80%;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
   }
 }
