@@ -367,7 +367,6 @@ ul {
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: center;
   }
 
   .flexCFeaturesBottom {
@@ -375,7 +374,6 @@ ul {
     flex-direction: column;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: center;
   }
 
   .flexBoxFeature {
@@ -396,6 +394,5 @@ ul {
     border: 2px solid darkslategray;
     width: 40%;
     height: auto;
-    justify-content: center;
   }
 }
