@@ -391,8 +391,6 @@ ul {
   }
 
   img {
-    float: left;
-    margin-right: 10px;
     border: 2px solid darkslategray;
     width: 40%;
     height: auto;
